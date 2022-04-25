@@ -1,0 +1,11 @@
+코드
+https://github.com/lumiamitie/TIL/blob/master/python/recsys_in_python_101.md
+https://stackoverflow.com/questions/60422206/machine-learning-entity-candidate-scoring-not-recognition
+
+RNN
+https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
+https://github.com/tensorflow/addons/tree/master/tensorflow_addons/seq2seq
+
+개인화 추천 Architecture
+https://medium.com/daangn/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-in-production-fa623877e56a
+https://brunch.co.kr/@mobiinside/863
